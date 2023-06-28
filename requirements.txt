@@ -1,0 +1,6 @@
+cython_bbox
+onemetric
+supervision==0.5.2
+ultralytics
+ipykernel
+salesforce_lavis==1.0.2
