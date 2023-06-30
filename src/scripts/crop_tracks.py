@@ -1,4 +1,3 @@
-from dataclasses import dataclass
 import argparse
 import logging
 import glob
@@ -8,7 +7,6 @@ import os
 
 from decord import VideoReader
 from decord import cpu, gpu
-from PIL import Image
 import cv2
 
 HOME = os.getcwd()

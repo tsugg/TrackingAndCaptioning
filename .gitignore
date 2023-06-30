@@ -4,3 +4,6 @@ venv/
 *.log
 output/
 *__pycache__
+
+
+!output/people_car/labels.mp4
