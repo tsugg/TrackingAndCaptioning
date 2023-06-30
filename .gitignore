@@ -2,7 +2,7 @@ yolov8s.pt
 ByteTrack/
 venv/
 *.log
-output/
+output/*
 *__pycache__
 
 
